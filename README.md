@@ -1,5 +1,5 @@
 Scholar-Seek: Academic Research Publication Analyzer
-An intelligent web application that simplifies academic research by allowing users to search for publications and authors, and generate concise summaries of complex research papers using a transformer-based model.
+An intelligent web application that simplifies academic research by allowing users to search for publications and authors, and generate concise summaries of complex research papers using a transformer-based model. 
 
 🌟 Overview
 Scholar-Seek addresses the challenge of information overload in academic research. It provides a simple interface to search for scholarly articles and authors via the Scholarly API and leverages a pre-trained BART model from Hugging Face to generate high-quality, abstractive summaries of the papers. This tool is designed to help students, researchers, and academics quickly identify and understand relevant literature in their field.
